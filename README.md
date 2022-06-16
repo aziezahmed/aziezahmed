@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aziezahmed
 - 👀 I’m interested in web development, python and more
-- 🌱 I’m currently learning Vue.Js 3
+- 🌱 I’m currently learning Vue 3
 
 <!---
 aziezahmed/aziezahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
